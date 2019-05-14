@@ -1,1 +1,2 @@
-Pokedex Project\nmade with ⚛️
+Pokedex Project
+made with ⚛️
