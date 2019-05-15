@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-import './Pokegame.css'
 import Pokedex from './Pokedex'
 
 class Pokegame extends Component {
